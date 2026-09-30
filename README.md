@@ -2,8 +2,10 @@
 
 Customer:
 Cleanliness-minded students who are forced to do the cleaning.
+
 Scenario:
 In dormitories, kitchen waste from takeout or cooking often accumulates in the living room for 1–2 days, and the bathroom is left with tissues, hair, and water stains from personal use.
+
 Problem:
 The ownership of the waste becomes ambiguous. The customer cannot identify the responsible party without causing conflict or damaging dorm relationships, so they end up cleaning by themselves. Over time, the customer is regarded by default as the person responsible for cleaning public areas, leading to wasted time and worsening dorm relationships
 
