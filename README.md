@@ -26,3 +26,9 @@ This solution turns shared cleaning into a fair, low-conflict exchange. Each mem
 
 Approach: 
 On a weekly or monthly cycle, members contribute. Tasks—living-room kitchen waste and bathroom tissues, hair, and water stains—are assigned values. Completion is verified by photo, checklist, or peer confirmation. The platform records contributions, calculates rewards, and distributes the pool. This creates tangible incentives, reduces conflict avoidance, and compensates those who clean. It encourages fair responsibility-sharing and eases the customer's time, psychological, and relationship costs.
+
+---
+
+## Process log
+
+- [Group Chat Log](./Group%20Chat%20Log/README.md) — consolidated event timeline from the team WeChat group (2026-09-16 → 2026-10-18), with raw transcript in [raw-log.md](./Group%20Chat%20Log/raw-log.md).
