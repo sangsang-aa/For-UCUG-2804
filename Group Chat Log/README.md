@@ -2,11 +2,11 @@
 
 > 来源：微信群 **ucug2804-group**
 >
-> 时间范围：2026-09-16 16:44（建群） → 2026-10-18 17:09
+> 时间范围：2026-09-16 16:44（建群） → 2026-10-21 14:07
 >
 > 整理方式：逐屏截图转写 + 按事件合并；原文见 [raw-log.md](./raw-log.md)
 >
-> 说明：消息数量约 150 条（含表情、图片、文件、撤回提示），原始聊天记录以微信为准。
+> 说明：消息数量约 200 条（含表情、图片、文件、撤回提示），原始聊天记录以微信为准。
 
 ## 1. 群聊基本信息
 
@@ -44,6 +44,14 @@
 | 20 | 10-14 14:12–16:49 | 交付 | Week 5 作业集中提交 | 胡陈杨发访谈记录表照片；陈志衡发 `assignment5.docx`，张彤发 `assignment5_completed_anonymized.docx`；黄俊良发 `Week_5_Validation_Test.docx`；吴优杨发 `Week 5 Assignment.docx`；胡陈杨发 `Week 5 Assignment Run One Validation Test.pdf` 与 `UCG2004WEEK8 项目四问.pdf` | 5 份 Week 5 作业 |
 | 21 | 10-14 16:46 | 计划 | 期中汇报准备 | 陈志衡提议找时间讨论"期中怎么讲" | 待办 |
 | 22 | 10-18 17:02–17:09 | 方向调整 | 胡陈杨提议整体更换方案 | 客座教授反馈：项目可复制性极强、作用太模糊、不适合落地；一位已拿天使轮的 TA 仍在改方案；红鸟项目也多为"定下来后再改"。胡陈杨据此建议放弃保洁服务平台，转向"学校内部服务整合平台"，并以校园清洁服务作为切入口；当晚 19:00 后在 W1-229 房间讨论 | 新方向提案（待团队确认） |
+| 23 | 10-18 17:44–18:38 | 排期 | 确定 10/19 18:00 讨论 | 黄俊良当晚有事；吴优杨 19:30 有事；胡陈杨 18:00–20:40 有课、麦克风损坏，提议线上挂腾讯会议；最终定周一 18:00，胡陈杨线上参加 | 腾讯会议 |
+| 24 | 10-19 18:09–19:19 | 会议 | 现状复盘与新方向讨论 | 吴优杨发《现阶段问题汇总》：痛点为公共区域卫生分配不均，方案为清洁服务预约平台 + 宿舍 AA，并自评 4 个问题（作用有限、卖点不明、开发成本高、需求不强烈）。胡陈杨提出"三个项目"如何取舍的困惑；黄俊良提出小组讨论、洗衣房占用两个新方向 | 问题汇总 |
+| 25 | 10-19 19:24–19:55 | 方案 | 期中汇报叙事定型 | 黄俊良给出 JEBO 汇报框架（Problem / target customer / collected evidence / key assumptions / next planned tests）；团队认同"以证据为主线"；陈志衡负责制作 PPT | Campus_Cleaning_Concierge_Team_Proposal.pptx |
+| 26 | 10-19 22:41–23:40 | 问卷 | 问卷星可视化与样本目标 | 吴优杨要求问卷星生成饼图/柱状图；目标 50+ 样本；讨论是否增加"是否港科广学生"选项，最终决定不加；陈志衡发首版 PPT（5.0M）与 `Next_Planned_Test.pptx` | 首版 PPT、Next_Planned_Test.pptx |
+| 27 | 10-20 10:47–14:05 | 材料 | 调研证据汇总与问卷回收 | 陈志衡发 `Collectedeviden.docx`（访谈 + 胡陈杨找的论文数据），说明随后写 team decision memo 与第 8 周 fieldwork plan；吴优杨找人填写问卷，有效样本 20+ | Collectedeviden.docx、memo.docx、Week8FieldworkP.docx |
+| 28 | 10-20 18:56–22:30 | 交付 | 期中 PPT 迭代与讲者分工 | 20 页拆成 5 段：1–4 开头+Problem、5–6 Customer+JEBO idea、7–10 Data evidence、11–14 Data evidence、15–20 Next plan+结尾；胡陈杨讲第 3 段、吴优杨讲第 4 段、黄俊良讲第 2 段，陈志衡先选；PPT 当晚连续修订 4 版 | JEBO_Midterm_Presentation_20min.pptx |
+| 29 | 10-21 上午–14:07 | 版本 | 最终版 PPT 汇总 | 陈志衡补发 503.9K 版并说明"更新了一下没更完的调研数据"；14:07 吴优杨发 `JEBO_Midterm_Presentation_20min(5).pptx`（874.9K），为当前最终版 | Presentation/JEBO_Midterm_Presentation_20min_final.pptx |
+| 30 | 10-21 | 归档 | 调查结果与 PPT 入库 | 5 份 Week 5 个人作业、证据汇编、memo、fieldwork plan、最终 PPT 已按成员归档到仓库 | Week 5 Submissions/、Research Evidence/、Presentation/ |
 
 ## 3. 关键决策
 
@@ -54,6 +62,8 @@
 | D3 | 09-18 | 用 GitHub 仓库沉淀聊天记录、平台内容与作业 | 沿用 |
 | D4 | 09-26 | 每人认领一个 MVP 方向，分别提交 | 已完成 |
 | D5 | 10-18 | 由"校园保洁服务平台"转向"学校内部服务整合平台"，清洁服务作为切入点 | 提议，待确认 |
+| D6 | 10-19 | 期中汇报采用"证据驱动"叙事：JEBO 作为已完成项目，Next plan 提出新方向 | 已执行，PPT 已归档 |
+| D7 | 10-19 | 问卷星样本目标 50+，用图表做可视化 | 执行中 |
 
 ## 4. 关键问题清单（来自 9/17、10/10 的质询）
 
@@ -74,12 +84,17 @@
 | 采访报告 | `Interview/20260923_intrview_from_...pdf` | 09-23 |
 | 五个 MVP | `MVP/MVPS.md` | 09-26 |
 | Week 5 作业 | 微信群 5 份 docx/pdf | 10-14 |
-| 群聊原文转写 | [raw-log.md](./raw-log.md) | 09-16 → 10-18 |
+| Week 5 个人调查作业（已按成员归档） | [Week 5 Submissions/](../Week%20Submissions/README.md) | 10-14 |
+| 调研证据汇编 | [Research Evidence/01_陈志衡_Collectedeviden.docx](../Research%20Evidence/01_陈志衡_Collectedeviden.docx) | 10-20 |
+| 期中汇报 PPT（最终版） | [Presentation/JEBO_Midterm_Presentation_20min_final.pptx](../Presentation/JEBO_Midterm_Presentation_20min_final.pptx) | 10-21 |
+| 群聊原文转写 | [raw-log.md](./raw-log.md) | 09-16 → 10-21 |
 
 ## 6. 待办 / 下一步
 
+- [x] 确认期中汇报叙事：JEBO 作为已完成项目 + Next plan（10/19）
+- [x] 期中 PPT 完成并归档（10/21）
+- [x] 个人调查作业与证据汇编入库（10/21）
 - [ ] 确认是否采纳 10/18 的"学校内部服务整合平台"新方向
 - [ ] 若采纳，重写 Problem / Customer / Direction，并同步更新根目录 `README.md`
-- [ ] 准备期中汇报（陈志衡 10/14 提议）
-- [ ] 补齐访谈证据：样本数、原话、具体场景
+- [ ] 补齐访谈证据：样本数、原话、具体场景（问卷目标 50+）
 - [ ] 将本次事件表与仓库现有 `Discussion on the 圆桌 platform/`、`Interview/`、`MVP/` 内容交叉引用

@@ -31,4 +31,7 @@ On a weekly or monthly cycle, members contribute. Tasks—living-room kitchen wa
 
 ## Process log
 
-- [Group Chat Log](./Group%20Chat%20Log/README.md) — consolidated event timeline from the team WeChat group (2026-09-16 → 2026-10-18), with raw transcript in [raw-log.md](./Group%20Chat%20Log/raw-log.md).
+- [Group Chat Log](./Group%20Chat%20Log/README.md) — consolidated event timeline from the team WeChat group (2026-09-16 → 2026-10-21), with raw transcript in [raw-log.md](./Group%20Chat%20Log/raw-log.md).
+- [Week 5 Submissions](./Week%205%20Submissions/README.md) — each member's individual Week 5 survey/interview deliverable.
+- [Research Evidence](./Research%20Evidence/README.md) — collected evidence, demand & direction, decision memo, Week 8 fieldwork plan.
+- [Presentation](./Presentation/README.md) — JEBO midterm presentation (final version, 20 slides).
